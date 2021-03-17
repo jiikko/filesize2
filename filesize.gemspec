@@ -8,7 +8,6 @@ Gem::Specification.new do |s|
   s.summary = s.description
 
   s.email = "n905i.1214@gmail.com"
-  s.has_rdoc = "yard"
   s.files = Dir.glob("{lib,spec}/**/*.rb") + ["LICENSE", "README.md"]
   s.homepage = "https://github.com/dominikh/filesize"
   s.required_ruby_version = ">= 3.0.0"
